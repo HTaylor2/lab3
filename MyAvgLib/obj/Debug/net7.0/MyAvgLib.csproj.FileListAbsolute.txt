@@ -1,0 +1,12 @@
+C:\Users\18484\Desktop\SOFTWAREDEV\lab3\MyAvgLib\bin\Debug\net7.0\MyAvgLib.deps.json
+C:\Users\18484\Desktop\SOFTWAREDEV\lab3\MyAvgLib\bin\Debug\net7.0\MyAvgLib.dll
+C:\Users\18484\Desktop\SOFTWAREDEV\lab3\MyAvgLib\bin\Debug\net7.0\MyAvgLib.pdb
+C:\Users\18484\Desktop\SOFTWAREDEV\lab3\MyAvgLib\obj\Debug\net7.0\MyAvgLib.csproj.AssemblyReference.cache
+C:\Users\18484\Desktop\SOFTWAREDEV\lab3\MyAvgLib\obj\Debug\net7.0\MyAvgLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18484\Desktop\SOFTWAREDEV\lab3\MyAvgLib\obj\Debug\net7.0\MyAvgLib.AssemblyInfoInputs.cache
+C:\Users\18484\Desktop\SOFTWAREDEV\lab3\MyAvgLib\obj\Debug\net7.0\MyAvgLib.AssemblyInfo.cs
+C:\Users\18484\Desktop\SOFTWAREDEV\lab3\MyAvgLib\obj\Debug\net7.0\MyAvgLib.csproj.CoreCompileInputs.cache
+C:\Users\18484\Desktop\SOFTWAREDEV\lab3\MyAvgLib\obj\Debug\net7.0\MyAvgLib.dll
+C:\Users\18484\Desktop\SOFTWAREDEV\lab3\MyAvgLib\obj\Debug\net7.0\refint\MyAvgLib.dll
+C:\Users\18484\Desktop\SOFTWAREDEV\lab3\MyAvgLib\obj\Debug\net7.0\MyAvgLib.pdb
+C:\Users\18484\Desktop\SOFTWAREDEV\lab3\MyAvgLib\obj\Debug\net7.0\ref\MyAvgLib.dll
